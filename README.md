@@ -8,18 +8,23 @@ Linguagem de marcação para formatar o README.
 ##### (h5)
 ###### (h6)
 ## Texto:
-### Deixando em **negrito**. \**
-### Deixando em _itálico_. \_ _
-### _**Combinando**_. \_**
+Deixando em **negrito**. \**
+
+Deixando em _itálico_. \_ _
+
+_**Combinando**_. \_**
 ## Imagens: \!\[]()
 ![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png)
-### Utilizando \!\[]() não consigo modificar as dimensões.
-### Para isso utilizo a tag HTML \<img scr heigth width>.
+
+Utilizando \!\[]() não consigo modificar as dimensões.
+
+Para isso utilizo a tag HTML \<img scr heigth width>.
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="100px" heigth="75px">
 
-### Links: \()[]
+## Links: \()[]
 [LinkedIn](https://www.linkedin.com/in/arthur-exner-63a4431ba/)
 
+## Listas:
 ### UL: \*
 * Criando UL
 * Usando Markdown
@@ -31,12 +36,12 @@ Linguagem de marcação para formatar o README.
 2. Usando Markdown.
     1. De novo.
 
-### Blockquote: \>
+## Blockquote: \>
 >BlockQuote: destacando esta área
 >
 >Quebro linha com \> vazio
 
-### Código: \```
+## Código: \```
 
 ```
 git commit -m "MD learning"
@@ -55,11 +60,11 @@ public void helloWorld(){
 ```
 Posso fazer com html, css, etc...
 
-### Task List: \- [ ] \- [x]
+## Task List: \- [ ] \- [x]
 - [x] Feito
 - [ ] Não Feito
 
-### Tabelas:
+## Tabelas: 
 Nome | Peso (kg) | Altura (m) | Foto
 -----|-----------|------------|-----
 Arthur| 74 | 1,79 | <img src="img/newMe.jpg" width="100" title="eu">
