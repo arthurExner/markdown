@@ -1,6 +1,6 @@
 # Dominando Markdown
 Linguagem de marcação para formatar o README.
-## Títulos:
+## Títulos: \# \## \### etc...
 # (h1)
 ## (h2) 
 ### (h3)
@@ -23,7 +23,7 @@ Linguagem de marcação para formatar o README.
 ### UL: \*
 * Criando UL
 * Usando Markdown
-### OL: \1.
+### OL: 1.
 1. Criando OL.
     1. (Tab + 1.)
     2. Criando
@@ -47,13 +47,17 @@ function helloWorld(){
     console.log("Hello, world!")
 }
 ```
-Em Java: 
+Em Java: \`\`\`java
 ```java
 public void helloWorld(){
     System.out.println("Hello, world!");
 }
 ```
 Posso fazer com html, css, etc...
+
+### Task List: \- [ ] \- [x]
+- [ ] Feito
+- [x] Não Feito
 
 
 
