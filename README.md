@@ -12,6 +12,9 @@ Linguagem de marcação para formatar o README.
 ### Deixando em _itálico_.
 ### _**Combinando**_.
 ## Imagens:
-![Markdown](https://www.svgrepo.com/show/361907/markdown.svg)
+![Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png)
+### Utilizando ![]() não consigo modificar as dimensões.
+### Para isso utilizo a tag HTML <!-img  scr heigth width ->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="150px" heigth="100px">
 
 
