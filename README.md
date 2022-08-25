@@ -19,6 +19,7 @@ _**Combinando**_. \_**
 Utilizando \!\[]() não consigo modificar as dimensões.
 
 Para isso utilizo a tag HTML \<img scr heigth width>.
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/175px-Markdown-mark.svg.png" width="100px" heigth="75px">
 
 ## Links: \()[]
