@@ -84,7 +84,7 @@ Posso fazer com html, css, etc...
 - [ ] Não Feito
 
 ## Tabelas: 
-Separo com | divido embaixo dos títulos com -----|---|---|---
+Separo com | divido em baixo dos títulos com -----|---|---|---
 
 Nome | Peso (kg) | Altura (m) | Foto
 -----|-----------|------------|-----
