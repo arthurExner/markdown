@@ -62,7 +62,7 @@ Posso fazer com html, css, etc...
 ### Tabelas:
 Nome | Peso (kg) | Altura (m) | Foto
 -----|-----------|------------|-----
-Arthur| 74 | 1,79 | ![Eu](C:\Users\tudye\Desktop\CURRÍCULO\newMe.jpg)
+Arthur| 74 | 1,79 | ![Eu](../Desktop/CURRÍCULO/newMe.jpg)
 Katchussia| 55 | 1,55|![Alguem](https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/female-face-icon.svg)  
 
 
