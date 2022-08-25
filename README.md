@@ -1,13 +1,13 @@
 # Dominando Markdown
 Linguagem de marcação para formatar o README.
-- [Dominando Markdown](#dominando-markdown)
+- [Conteúdos:](#dominando-markdown)
   - [Títulos](#títulos----etc)
   - [Texto](#texto)
   - [Imagens](#imagens-)
   - [Links](#links-)
-  - [Listas](#listas)
-    - [UL](#ul-)
-    - [OL](#ol-1)
+  - [Listas](#listas) | 
+[UL](#ul-) | 
+[OL](#ol-1)
   - [Blockquote](#blockquote-)
   - [Código](#código-)
   - [Task List](#task-list-------x)
