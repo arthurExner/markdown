@@ -1,5 +1,17 @@
 # Dominando Markdown
 Linguagem de marcação para formatar o README.
+- [Dominando Markdown](#dominando-markdown)
+  - [Títulos](#títulos----etc)
+  - [Texto](#texto)
+  - [Imagens](#imagens-)
+  - [Links](#links-)
+  - [Listas](#listas)
+    - [UL](#ul-)
+    - [OL](#ol-1)
+  - [Blockquote](#blockquote-)
+  - [Código](#código-)
+  - [Task List](#task-list-------x)
+  - [Tabelas](#tabelas)
 ## Títulos: \# \## \### etc...
 # (h1)
 ## (h2) 
@@ -29,13 +41,19 @@ Para isso utilizo a tag HTML \<img scr heigth width>.
 ### UL: \*
 * Criando UL
 * Usando Markdown
+
+ou com - 
+
+- Criando UL
+  - sublista usando dois espaços
 ### OL: 1.
 1. Criando OL.
     1. (Tab + 1.)
     2. Criando
     3. Sublista
 2. Usando Markdown.
-    1. De novo.
+    1. De novo. (Tab + 1.)
+
 
 ## Blockquote: \>
 >BlockQuote: destacando esta área
@@ -70,15 +88,3 @@ Nome | Peso (kg) | Altura (m) | Foto
 -----|-----------|------------|-----
 Arthur| 74 | 1,79 | <img src="img/newMe.jpg" width="100" title="eu">
 Katchussia| 55 | 1,55|<img src="https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/female-face-icon.svg" width="100" title="alguem">
-  
-
-
-
-
-
-
-
-
-
-
-
