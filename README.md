@@ -86,7 +86,6 @@ Posso fazer com html, css, etc...
 ## Tabelas: 
 Separo com | divido embaixo dos títulos com -----|---|---|---
 
----
 Nome | Peso (kg) | Altura (m) | Foto
 -----|-----------|------------|-----
 Arthur| 74 | 1,79 | <img src="img/newMe.jpg" width="100" title="eu">
