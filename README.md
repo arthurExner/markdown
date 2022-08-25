@@ -56,8 +56,8 @@ public void helloWorld(){
 Posso fazer com html, css, etc...
 
 ### Task List: \- [ ] \- [x]
-- [ ] Feito
-- [x] Não Feito
+- [x] Feito
+- [ ] Não Feito
 
 
 
