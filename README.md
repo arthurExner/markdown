@@ -88,7 +88,7 @@ Separo com | divido em baixo dos títulos com -----|---|---|---
 
 Nome | Peso (kg) | Altura (m) | Foto
 -----|-----------|------------|-----
-Arthur| 74 | 1,79 | <img src="img/newMe.jpg" width="100" title="eu">
+Arthur| 74 | 1,79 | <img src="img2/newMe.jpg" width="100" title="eu">
 Katchussia| 55 | 1,55|<img src="https://uxwing.com/wp-content/themes/uxwing/download/peoples-avatars/female-face-icon.svg" width="100" title="alguem">
 Total | 129 | 3,34
 ---
